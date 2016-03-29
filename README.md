@@ -1,3 +1,3 @@
 # Machine-Learning
 
-RM, HTML and PDF profided
+RM, HTML and PDF provided
